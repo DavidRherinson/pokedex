@@ -3,7 +3,7 @@ projeto feito com html, css e javascript, site simple e responsivo click na list
 
 OBS: números dos status inventados
 
-site para teste: 
+site para teste: https://davidrherinson.github.io/pokedex/
 
 <div style="display: flex" align="center">
 <img src="src/imagens/print-pokemon.png"> 
