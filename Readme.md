@@ -1,5 +1,5 @@
 # Pokédex
-projeto feito com html, css e javascript, site simple e responsivo click na lista para ver os pokemons
+projeto feito com html, css e javascript, site simples e responsivo clique na lista para ver os pokemons
 
 OBS: números dos status inventados
 
